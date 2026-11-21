@@ -1,0 +1,14 @@
+# datasets
+train.csv
+test.csv
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# environments
+.venv/
+venv/
